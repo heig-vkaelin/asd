@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 495 236" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:10;">
+    <g transform="matrix(1,0,0,1,-50.4241,-323.398)">
+        <g>
+            <clipPath id="_clip1">
+                <rect x="50.4" y="323.4" width="494.4" height="235.56"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1,0,0,1,0,40.63)">
+                    <rect x="50.666" y="283.01" width="493.87" height="235.15" style="fill:white;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,46.32)">
+                    <path d="M99.601,465.31L530.08,465.31M99.601,446.04L530.08,446.04M99.601,426.69L530.08,426.69M99.601,407.42L530.08,407.42M99.601,388.07L530.08,388.07M99.601,368.79L530.08,368.79M99.601,349.45L530.08,349.45M99.601,330.17L530.08,330.17" style="fill:none;fill-rule:nonzero;stroke:rgb(218,218,218);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,65.63)">
+                    <path d="M243.13,310.86L243.13,465.31M386.62,310.86L386.62,465.31M530.08,310.86L530.08,465.31" style="fill:none;fill-rule:nonzero;stroke:rgb(218,218,218);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(0,-1,-1,0,487.686,553.316)">
+                    <path d="M22.376,388.085L176.826,388.085" style="fill:none;fill-rule:nonzero;stroke:rgb(218,218,218);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,220.08)">
+                    <path d="M99.601,310.86L530.08,310.86" style="fill:none;fill-rule:nonzero;stroke:rgb(218,218,218);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,124.44)">
+                    <clipPath id="_clip2">
+                        <rect x="99.559" y="251.98" width="430.94" height="154.94"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip2)">
+                        <path d="M99.601,388.08L243.13,367.99L386.62,348.57L530.08,329.28" style="fill:none;fill-rule:nonzero;stroke:rgb(68,114,196);stroke-width:1.13px;stroke-linecap:round;"/>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,0,183.33)">
+                    <path d="M99.657,327.3L101.59,331.17L97.722,331.17L99.657,327.3Z" style="fill:rgb(68,114,196);fill-rule:nonzero;stroke:rgb(68,114,196);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,143.09)">
+                    <path d="M243.15,347.42L245.08,351.29L241.21,351.29L243.15,347.42Z" style="fill:rgb(68,114,196);fill-rule:nonzero;stroke:rgb(68,114,196);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,104.23)">
+                    <path d="M386.64,366.85L388.57,370.72L384.7,370.72L386.64,366.85Z" style="fill:rgb(68,114,196);fill-rule:nonzero;stroke:rgb(68,114,196);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,65.69)">
+                    <path d="M530.13,386.12L532.06,389.99L528.19,389.99L530.13,386.12Z" style="fill:rgb(68,114,196);fill-rule:nonzero;stroke:rgb(68,114,196);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,124.44)">
+                    <clipPath id="_clip3">
+                        <rect x="99.559" y="251.98" width="430.94" height="154.94"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip3)">
+                        <path d="M99.601,388.08L243.13,367.99L386.62,348.57L530.08,329.28" style="fill:none;fill-rule:nonzero;stroke:rgb(237,125,49);stroke-width:1.13px;stroke-linecap:round;stroke-dasharray:2.26,2.26;"/>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,0,183.33)">
+                    <path d="M101.59,331.17L97.722,327.3M97.722,331.17L101.59,327.3" style="fill:none;fill-rule:nonzero;stroke:rgb(237,125,49);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,143.09)">
+                    <path d="M245.08,351.29L241.21,347.42M241.21,351.29L245.08,347.42" style="fill:none;fill-rule:nonzero;stroke:rgb(237,125,49);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,104.23)">
+                    <path d="M388.57,370.72L384.7,366.85M384.7,370.72L388.57,366.85" style="fill:none;fill-rule:nonzero;stroke:rgb(237,125,49);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,65.69)">
+                    <path d="M532.06,389.99L528.19,386.12M528.19,389.99L532.06,386.12" style="fill:none;fill-rule:nonzero;stroke:rgb(237,125,49);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,39.52)">
+                    <clipPath id="_clip4">
+                        <rect x="99.559" y="336.9" width="430.94" height="154.94"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip4)">
+                        <path d="M99.601,459.5L243.13,420.1L386.62,381.4L530.08,342.78" style="fill:none;fill-rule:nonzero;stroke:rgb(166,166,166);stroke-width:1.13px;stroke-linecap:round;"/>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,0,156.23)">
+                    <path d="M101.59,344.72L97.722,340.85M99.657,340.85L99.657,344.72M97.722,344.72L101.59,340.85" style="fill:none;fill-rule:nonzero;stroke:rgb(166,166,166);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,77.45)">
+                    <path d="M245.08,384.11L241.21,380.24M243.15,380.24L243.15,384.11M241.21,384.11L245.08,380.24" style="fill:none;fill-rule:nonzero;stroke:rgb(166,166,166);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,0.05)">
+                    <path d="M388.57,422.81L384.7,418.94M386.64,418.94L386.64,422.81M384.7,422.81L388.57,418.94" style="fill:none;fill-rule:nonzero;stroke:rgb(166,166,166);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,-77.19)">
+                    <path d="M532.06,461.43L528.19,457.56M530.13,457.56L530.13,461.43M528.19,461.43L532.06,457.56" style="fill:none;fill-rule:nonzero;stroke:rgb(166,166,166);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,95.03)">
+                    <clipPath id="_clip5">
+                        <rect x="99.559" y="281.39" width="430.94" height="154.94"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip5)">
+                        <path d="M99.601,411.68L243.13,381.85L386.62,358.16L530.08,335.09" style="fill:none;fill-rule:nonzero;stroke:rgb(255,192,0);stroke-width:1.13px;stroke-linecap:round;"/>
+                    </g>
+                </g>
+                <g transform="matrix(0,-1,-1,0,434.771,606.341)">
+                    <ellipse cx="99.656" cy="335.115" rx="1.935" ry="1.934" style="fill:rgb(255,192,0);stroke:rgb(255,192,0);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(0,-1,-1,0,608.06,720.03)">
+                    <circle cx="243.145" cy="364.915" r="1.935" style="fill:rgb(255,192,0);stroke:rgb(255,192,0);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(0,-1,-1,0,775.23,839.84)">
+                    <circle cx="386.635" cy="388.595" r="1.935" style="fill:rgb(255,192,0);stroke:rgb(255,192,0);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(0,-1,-1,0,941.79,960.26)">
+                    <circle cx="530.125" cy="411.665" r="1.935" style="fill:rgb(255,192,0);stroke:rgb(255,192,0);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,100.6)">
+                    <clipPath id="_clip6">
+                        <rect x="99.559" y="275.82" width="430.94" height="154.94"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip6)">
+                        <path d="M99.601,404.81L243.13,380.38L386.62,357.47L530.08,336.39" style="fill:none;fill-rule:nonzero;stroke:rgb(91,155,213);stroke-width:1.13px;stroke-linecap:round;"/>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,0,169.09)">
+                    <path d="M101.59,338.29L97.722,334.42M99.657,334.42L99.657,338.29M97.722,338.29L101.59,334.42" style="fill:rgb(91,155,213);fill-rule:nonzero;stroke:rgb(91,155,213);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,120.17)">
+                    <path d="M245.08,362.75L241.21,358.88M243.15,358.88L243.15,362.75M241.21,362.75L245.08,358.88" style="fill:rgb(91,155,213);fill-rule:nonzero;stroke:rgb(91,155,213);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,74.35)">
+                    <path d="M388.57,385.66L384.7,381.79M386.64,381.79L386.64,385.66M384.7,385.66L388.57,381.79" style="fill:rgb(91,155,213);fill-rule:nonzero;stroke:rgb(91,155,213);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,32.25)">
+                    <path d="M532.06,406.71L528.19,402.84M530.13,402.84L530.13,406.71M528.19,406.71L532.06,402.84" style="fill:rgb(91,155,213);fill-rule:nonzero;stroke:rgb(91,155,213);stroke-width:0.48px;"/>
+                </g>
+                <text x="91.296px" y="532.63px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">1</text>
+                <text x="88.344px" y="513.34px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">10</text>
+                <text x="85.392px" y="494.02px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">100</text>
+                <text x="82.464px" y="474.72px" style="font-family:'Calibri', sans-serif;font-size:5.784px;fill:rgb(88,88,88);">1000</text>
+                <text x="79.512px" y="455.4px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">10000</text>
+                <text x="76.584px" y="436.08px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">100000</text>
+                <text x="73.632px" y="416.78px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">1000000</text>
+                <text x="70.704px" y="397.46px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">1000000<tspan x="91.2px " y="397.46px ">0</tspan></text>
+                <text x="67.752px" y="378.17px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">100000000</text>
+                <text x="95.856px" y="540.19px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">1<tspan x="99.576px " y="540.19px ">0</tspan></text>
+                <text x="237.53px" y="540.19px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">1<tspan x="241.25px 244.969px " y="540.19px 540.19px ">00</tspan></text>
+                <text x="379.2px" y="540.19px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">1<tspan x="382.92px 386.639px 390.359px " y="540.19px 540.19px 540.19px ">000</tspan></text>
+                <text x="520.87px" y="540.19px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">1<tspan x="524.566px 528.261px 531.957px 535.653px " y="540.19px 540.19px 540.19px 540.19px ">0000</tspan></text>
+                <g transform="matrix(-4.4e-08,-1,1,-4.4e-08,0,0)">
+                    <text x="-490.25px" y="64.224px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">N</text>
+                    <text x="-486.533px" y="64.224px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">O</text>
+                    <text x="-482.676px" y="64.224px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">MBR</text>
+                    <text x="-471.432px" y="64.224px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">E</text>
+                    <text x="-467.253px" y="64.224px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">D</text>
+                    <text x="-463.698px" y="64.224px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">E</text>
+                    <text x="-459.518px" y="64.224px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">CO</text>
+                    <text x="-452.554px" y="64.224px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">M</text>
+                    <text x="-447.611px" y="64.224px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">P</text>
+                    <text x="-444.591px" y="64.224px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">AR</text>
+                    <text x="-438.104px" y="64.224px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">AI</text>
+                    <text x="-433.277px" y="64.224px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">S</text>
+                    <text x="-430.652px" y="64.224px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">O</text>
+                    <text x="-426.796px" y="64.224px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">NS</text>
+                </g>
+                <g>
+                    <text x="288.79px" y="549.22px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">N</text>
+                    <text x="292.484px" y="549.22px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">O</text>
+                    <text x="296.34px" y="549.22px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">MB</text>
+                    <text x="304.443px" y="549.22px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">RE</text>
+                    <text x="311.804px" y="549.22px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">D</text>
+                    <text x="315.358px" y="549.22px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">E V</text>
+                    <text x="322.832px" y="549.22px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">A</text>
+                    <text x="326.148px" y="549.22px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">LE</text>
+                    <text x="331.468px" y="549.22px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">U</text>
+                    <text x="335.162px" y="549.22px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">RS</text>
+                </g>
+                <g>
+                    <text x="126px" y="338.35px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">N<tspan x="133.57px " y="338.35px ">O</tspan></text>
+                    <text x="141.32px" y="338.35px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">M</text>
+                    <text x="151.05px" y="338.35px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">B<tspan x="157.599px 164.173px " y="338.35px 338.35px ">RE</tspan></text>
+                    <text x="173.145px" y="338.35px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">D<tspan x="180.413px " y="338.35px ">E</tspan></text>
+                    <text x="189.29px" y="338.35px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">C<tspan x="195.419px 203.137px 212.891px " y="338.35px 338.35px 338.35px ">OMP</tspan></text>
+                    <text x="218.427px" y="338.35px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">A<tspan x="225.446px 232.021px " y="338.35px 338.35px ">RA</tspan></text>
+                    <text x="239.04px" y="338.35px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">I<tspan x="242.53px " y="338.35px ">S</tspan></text>
+                    <text x="248.141px" y="338.35px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">O<tspan x="255.882px 263.441px " y="338.35px 338.35px ">NS</tspan></text>
+                    <text x="272.255px" y="338.35px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">E<tspan x="278.054px " y="338.35px ">N</tspan></text>
+                    <text x="288.718px" y="338.35px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">F<tspan x="294.146px 301.886px 309.445px 315.722px " y="338.35px 338.35px 338.35px 338.35px ">ONCT</tspan></text>
+                    <text x="321.597px" y="338.35px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">I</text>
+                    <text x="325.067px" y="338.35px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">O<tspan x="332.808px " y="338.35px ">N</tspan></text>
+                    <text x="343.596px" y="338.35px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">D<tspan x="350.864px " y="338.35px ">U</tspan></text>
+                    <text x="361.449px" y="338.35px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">N<tspan x="369.009px 376.749px 386.526px 393.075px 399.649px " y="338.35px 338.35px 338.35px 338.35px 338.35px ">OMBRE</tspan></text>
+                    <text x="408.522px" y="338.35px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">D<tspan x="415.79px " y="338.35px ">E</tspan></text>
+                    <text x="424.738px" y="338.35px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">V<tspan x="431.056px 438.073px 443.204px 449.004px 456.504px 462.977px " y="338.35px 338.35px 338.35px 338.35px 338.35px 338.35px ">ALEURS</tspan></text>
+                    <text x="177.31px" y="350.946px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">V<tspan x="183.658px " y="350.946px ">A</tspan></text>
+                    <text x="190.705px" y="350.946px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">L<tspan x="195.835px 201.634px 209.133px 215.605px " y="350.946px 350.946px 350.946px 350.946px ">EURS</tspan></text>
+                    <text x="224.352px" y="350.946px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">C<tspan x="230.579px 237.051px 244.791px 248.312px 253.956px 259.473px " y="350.946px 350.946px 350.946px 350.946px 350.946px 350.946px ">ROISSA</tspan></text>
+                    <text x="266.489px" y="350.946px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">N<tspan x="274.07px 279.967px 285.688px " y="350.946px 350.946px 350.946px ">TES</tspan></text>
+                    <text x="294.53px" y="350.946px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">-</text>
+                    <text x="301.151px" y="350.946px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">A<tspan x="308.174px 314.628px " y="350.946px 350.946px ">XE</tspan></text>
+                    <text x="323.913px" y="350.946px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">Y</text>
+                    <text x="333.2px" y="350.946px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">L<tspan x="338.156px 345.903px 353.248px 360.27px " y="350.946px 350.946px 350.946px 350.946px ">OGAR</tspan></text>
+                    <text x="366.851px" y="350.946px" style="font-family:'Calibri-Bold', 'Calibri', sans-serif;font-weight:700;font-size:10.296px;fill:rgb(88,88,88);">I<tspan x="370.364px 376.229px 383.492px 393.259px 396.771px 404.602px 412.092px " y="350.946px 350.946px 350.946px 350.946px 350.946px 350.946px 350.946px ">THMIQUE</tspan></text>
+                    <text x="208.49px" y="365.614px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">b</text>
+                    <text x="211.516px" y="365.614px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">u</text>
+                    <text x="214.606px" y="365.614px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">b</text>
+                    <text x="217.632px" y="365.614px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">b</text>
+                    <text x="220.722px" y="365.614px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">le</text>
+                </g>
+                <g>
+                    <text x="246.58px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">in</text>
+                    <text x="250.988px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">se</text>
+                    <text x="256.076px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">rt</text>
+                </g>
+                <g>
+                    <text x="281.74px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">s</text>
+                    <text x="284.011px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">e</text>
+                    <text x="286.944px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">l</text>
+                    <text x="288.28px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">e</text>
+                    <path d="M296.238,362.923C296.295,362.923 296.334,362.936 296.354,362.961C296.375,362.987 296.386,363.024 296.386,363.073L296.386,365.549C296.386,365.564 296.382,365.577 296.374,365.587C296.367,365.598 296.354,365.607 296.336,365.614C296.318,365.622 296.294,365.628 296.264,365.631C296.233,365.635 296.196,365.637 296.153,365.637C296.106,365.637 296.067,365.635 296.037,365.631C296.006,365.628 295.982,365.622 295.964,365.614C295.946,365.607 295.934,365.598 295.926,365.587C295.919,365.577 295.915,365.564 295.915,365.549L295.915,363.312L294.596,363.312L294.596,364.735C294.596,364.911 294.622,365.044 294.674,365.134C294.726,365.223 294.819,365.268 294.953,365.268C294.997,365.268 295.036,365.264 295.07,365.256C295.104,365.247 295.134,365.238 295.16,365.229C295.187,365.219 295.21,365.21 295.228,365.202C295.247,365.193 295.264,365.189 295.28,365.189C295.289,365.189 295.298,365.191 295.306,365.196C295.315,365.201 295.322,365.21 295.326,365.223C295.331,365.236 295.335,365.254 295.339,365.277C295.343,365.3 295.345,365.328 295.345,365.362C295.345,365.417 295.341,365.46 295.333,365.491C295.326,365.522 295.314,365.546 295.299,365.562C295.284,365.578 295.262,365.593 295.231,365.606C295.201,365.619 295.167,365.63 295.128,365.638C295.089,365.647 295.048,365.654 295.004,365.66C294.961,365.665 294.917,365.668 294.874,365.668C294.742,365.668 294.628,365.651 294.534,365.616C294.439,365.581 294.362,365.528 294.301,365.457C294.241,365.386 294.197,365.296 294.169,365.188C294.142,365.079 294.128,364.951 294.128,364.803L294.128,363.312L293.771,363.312C293.742,363.312 293.72,363.296 293.703,363.266C293.686,363.236 293.677,363.187 293.677,363.119C293.677,363.083 293.68,363.053 293.684,363.028C293.689,363.003 293.695,362.983 293.703,362.967C293.71,362.951 293.72,362.94 293.732,362.933C293.745,362.926 293.758,362.923 293.774,362.923L294.128,362.923L294.128,362.316C294.128,362.303 294.131,362.291 294.138,362.279C294.145,362.268 294.157,362.258 294.175,362.249C294.193,362.241 294.217,362.235 294.247,362.231C294.277,362.227 294.315,362.225 294.361,362.225C294.408,362.225 294.447,362.227 294.477,362.231C294.507,362.235 294.531,362.241 294.548,362.249C294.565,362.258 294.577,362.268 294.585,362.279C294.592,362.291 294.596,362.303 294.596,362.316L294.596,362.923L296.238,362.923ZM296.439,362.135C296.439,362.244 296.419,362.319 296.377,362.359C296.335,362.398 296.259,362.418 296.147,362.418C296.038,362.418 295.962,362.399 295.922,362.36C295.881,362.321 295.861,362.248 295.861,362.14C295.861,362.031 295.882,361.956 295.923,361.916C295.965,361.877 296.041,361.857 296.153,361.857C296.263,361.857 296.338,361.876 296.378,361.915C296.419,361.954 296.439,362.027 296.439,362.135Z" style="fill:rgb(88,88,88);"/>
+                    <text x="291.12px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">c<tspan x="296.827px " y="365.62px ">o</tspan>n</text>
+                </g>
+                <g>
+                    <text x="324.62px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">st</text>
+                    <text x="328.773px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">d</text>
+                    <text x="331.863px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">::s</text>
+                    <text x="337.159px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">ort</text>
+                </g>
+                <g>
+                    <text x="365.95px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">s</text>
+                    <text x="368.18px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">t</text>
+                    <text x="370.126px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">d</text>
+                    <text x="373.216px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">::s</text>
+                    <text x="378.513px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">t</text>
+                    <text x="380.522px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">a</text>
+                    <text x="383.235px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">b</text>
+                    <text x="386.324px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">l</text>
+                    <text x="387.66px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">e</text>
+                    <text x="390.5px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">_</text>
+                    <text x="393.422px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">s</text>
+                    <text x="395.652px" y="365.62px" style="font-family:'Calibri', sans-serif;font-size:5.808px;fill:rgb(88,88,88);">ort</text>
+                </g>
+                <g transform="matrix(1,0,0,1,0,-113.9)">
+                    <path d="M194.76,477.85L207.15,477.85" style="fill:none;fill-rule:nonzero;stroke:rgb(68,114,196);stroke-width:1.13px;stroke-linecap:round;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,-114.05)">
+                    <path d="M200.95,476.3L202.57,479.55L199.32,479.55L200.95,476.3Z" style="fill:rgb(68,114,196);fill-rule:nonzero;stroke:rgb(68,114,196);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,-113.9)">
+                    <path d="M232.84,477.85L245.22,477.85" style="fill:none;fill-rule:nonzero;stroke:rgb(237,125,49);stroke-width:1.13px;stroke-linecap:round;stroke-dasharray:2.26,2.26;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,-114.05)">
+                    <path d="M240.65,479.55L237.4,476.3M237.4,479.55L240.65,476.3" style="fill:none;fill-rule:nonzero;stroke:rgb(237,125,49);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,-113.9)">
+                    <path d="M267.99,477.85L280.38,477.85" style="fill:none;fill-rule:nonzero;stroke:rgb(166,166,166);stroke-width:1.13px;stroke-linecap:round;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,-114.05)">
+                    <path d="M275.79,479.55L272.54,476.3M274.16,476.3L274.16,479.55M272.54,479.55L275.79,476.3" style="fill:none;fill-rule:nonzero;stroke:rgb(166,166,166);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,-113.9)">
+                    <path d="M310.87,477.85L323.25,477.85" style="fill:none;fill-rule:nonzero;stroke:rgb(255,192,0);stroke-width:1.13px;stroke-linecap:round;"/>
+                </g>
+                <g transform="matrix(0,-1,-1,0,794.96,680.91)">
+                    <circle cx="317.035" cy="477.925" r="1.625" style="fill:rgb(255,192,0);stroke:rgb(255,192,0);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,-113.9)">
+                    <path d="M352.19,477.85L364.57,477.85" style="fill:none;fill-rule:nonzero;stroke:rgb(91,155,213);stroke-width:1.13px;stroke-linecap:round;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,-114.05)">
+                    <path d="M359.99,479.55L356.74,476.3M358.37,476.3L358.37,479.55M356.74,479.55L359.99,476.3" style="fill:rgb(91,155,213);fill-rule:nonzero;stroke:rgb(91,155,213);stroke-width:0.48px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,0,40.63)">
+                    <rect x="50.666" y="283.01" width="493.87" height="235.15" style="fill:none;stroke:rgb(218,218,218);stroke-width:0.48px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
